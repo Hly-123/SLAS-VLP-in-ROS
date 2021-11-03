@@ -1,6 +1,6 @@
 # SLAS-VLP-in-ROS
 
-单灯定位文件夹(single_led_simple)
+单灯定位文件夹(single_led_simple [public version])
 
 PS:注意事项 当电脑运行太久卡顿时,无法通过Ctrl+C结束时,Ctrl+Alt+T重开一个终端 查看指定进程 ps -ef|grep 关键词 如: ps -ef|grep single_led_locator 查看到当前运行的进程号 xxx 再通过下述命令杀掉对应的进程 kill -9 xxx
 
